@@ -1,6 +1,12 @@
----
+<p align="center">
+  <a href="https://github.com/marcoshsq/ChallengeAluraStore-G8-ONE">
+    <img src="https://github.com/marcoshsq/ChallengeAluraStore-G8-ONE/blob/main/Challenge_Badge.png" alt="Challenge_Badge" height="150">
+  </a>
+</p>
 
-# Alura Store Challenge 📊🛒
+<h2 align="center">Alura Store Challenge 📊🛒</h2>
+
+---
 
 ### Sobre o Projeto
 
