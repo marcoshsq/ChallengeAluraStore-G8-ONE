@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="center">Alura Store Challenge 📊🛒</h2>
+<h2 align="center">Desafio - Análise de Desempenho da Alura Store 📊🛒</h2>
 
 ---
 
